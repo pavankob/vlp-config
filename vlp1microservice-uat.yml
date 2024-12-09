@@ -1,0 +1,13 @@
+vlp1:
+  case:
+    caseType: 2000000000
+  env: 'uat'
+  envUrl: 'uat.wahpf.org'
+  lead: 'shivangi'
+  contacts:
+    contact1:
+      name: 'anil - testing'
+      phone: '+918179794541'
+    contact2:
+      name: 'angel - Developer'
+      phone: '+918179794541'

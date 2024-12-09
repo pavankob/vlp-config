@@ -1,0 +1,13 @@
+vlp1:
+  case:
+    caseType: 1000000000
+  env: 'dev'
+  envUrl: 'dev.wahpf.org'
+  lead: 'pavan kumar'
+  contacts:
+    contact1:
+      name: 'sunny - Developer'
+      phone: '+918179794541'
+    contact2:
+      name: 'nisha - Developer'
+      phone: '+918179794541'

@@ -1,0 +1,13 @@
+vlp1:
+  case:
+    caseType: 3000000000
+  env: 'prod'
+  envUrl: 'app.wahpf.org'
+  lead: 'Mukesh'
+  contacts:
+    contact1:
+      name: 'Yeshvanth'
+      phone: '+918179794541'
+    contact2:
+      name: 'Kiran'
+      phone: '+918179794541'
