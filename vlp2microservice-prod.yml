@@ -1,8 +1,6 @@
-vlp1:
-  case:
-    caseType: 3000000000
-  envType: 'vlp1'
+vlp2:
   env: 'prod'
+  envType: 'vlp2'
   envUrl: 'app.wahpf.org'
   lead: 'Mukesh'
   contacts:

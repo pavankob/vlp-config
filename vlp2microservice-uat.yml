@@ -1,8 +1,6 @@
-vlp1:
-  case:
-    caseType: 2000000000
-  envType: 'vlp1'
+vlp2:
   env: 'uat'
+  envType: 'vlp2'
   envUrl: 'uat.wahpf.org'
   lead: 'shivangi'
   contacts:

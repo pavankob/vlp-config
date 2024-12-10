@@ -1,8 +1,6 @@
-vlp1:
-  case:
-    caseType: 1000000000
+vlp2:
   env: 'dev'
-  envType: 'vlp1'
+  envType: 'vlp2'
   envUrl: 'dev.wahpf.org'
   lead: 'pavan kumar'
   contacts:
